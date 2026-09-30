@@ -167,7 +167,7 @@ I'm a junior year Cyber Physical Systems Engineering student with interests span
 
 <div align="center">
 
-<a href="https://github.com/Dr-Dre420">
+<a href="https://github.com/ArnavJain2005">
   <img src="https://streak-stats.demolab.com?user=Dr-Dre420&theme=transparent&hide_border=true" />
 </a>
 

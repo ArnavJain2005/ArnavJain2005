@@ -2,11 +2,11 @@
 
 # Hey, I'm Arnav
 
-### Software Developer • Quantitative Researcher • AI Engineer
+### AI/ML & Systems Engineering • Quantitative Research • Game Development
 
-Building software, researching markets, and exploring the intersection of **mathematics, data, and intelligent systems**.
+Building **data-driven software, financial risk systems, and sensor-integrated** interactive experiences.
 
-<a href="https://github.com/Dr-Dre420">
+<a href="https://github.com/ArnavJain2005">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/arnavxjain/">
@@ -22,7 +22,7 @@ Building software, researching markets, and exploring the intersection of **math
 
 ## About Me
 
-I'm a junior year Cyber Physical Systems Engineering student with interests spanning **AI/ML, quantitative research, software engineering, and game development**. I work with **Python, C, C++, C#, Embedded C, and Assembly**, and have experience applying these skills to **machine learning, data-driven systems, software development, and quantitative research**. I am particularly interested in **systematic trading, financial markets, algorithmic systems, and intelligent softwares**, with a focus on developing practical solutions through continuous experimentation and learning.
+Junior Cyber Physical Systems Engineering student interested in **AI/ML, quantitative research, software engineering, and game development**. I work with **Python, C, C++, C#, Embedded C, and Assembly**, and have applied these languages and tools to machine learning, data-driven systems, embedded development, and interactive software. My interests include **systematic trading, financial markets, algorithmic systems, and XR/game development**, with an emphasis on practical engineering, experimentation, and evidence-based iteration.
 
 ---
 
@@ -98,6 +98,17 @@ I'm a junior year Cyber Physical Systems Engineering student with interests span
   </tr>
 
   <tr>
+  <td><b>Game Development & XR</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-OpenXR-6E56CF?style=flat-square"/>
+    <img src="https://img.shields.io/badge/-XR_Interaction_Toolkit-5C2D91?style=flat-square&logo=unity&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Unity_Input_System-5C2D91?style=flat-square&logo=unity&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-URP-5C2D91?style=flat-square&logo=unity&logoColor=white"/>
+  </td>
+  </tr>
+
+  <tr>
     <td><b>Quantitative Finance</b></td>
     <td>
       <img src="https://img.shields.io/badge/-Quant_Research-1F6FEB?style=flat-square&logo=python&logoColor=white"/>
@@ -131,6 +142,17 @@ I'm a junior year Cyber Physical Systems Engineering student with interests span
   </tr>
 
   <tr>
+  <td><b>Embedded Systems & Firmware</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-USB_Serial-455A64?style=flat-square"/>
+    <img src="https://img.shields.io/badge/-I2C-607D8B?style=flat-square"/>
+    <img src="https://img.shields.io/badge/-Sensor_Integration-2E7D32?style=flat-square"/>
+  </td>
+  </tr>
+
+  <tr>
     <td><b>Deployment & MLOps</b></td>
     <td>
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
@@ -158,7 +180,7 @@ I'm a junior year Cyber Physical Systems Engineering student with interests span
     <img src="https://img.shields.io/badge/-OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Antigravity-18181B?style=flat-square&logo=google&logoColor=white"/>
   </td>
-</tr>
+  </tr>
 </table>
 
 ---

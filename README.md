@@ -43,8 +43,6 @@ Junior Cyber Physical Systems Engineering student interested in **AI/ML, quantit
       <img src="https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Embedded_C-00599C?style=flat-square&logo=c&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Assembly-0091BD?style=flat-square&logo=arm&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
     </td>
   </tr>
  
@@ -102,8 +100,6 @@ Junior Cyber Physical Systems Engineering student interested in **AI/ML, quantit
     <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
     <img src="https://img.shields.io/badge/-OpenXR-6E56CF?style=flat-square"/>
     <img src="https://img.shields.io/badge/-XR_Interaction_Toolkit-5C2D91?style=flat-square&logo=unity&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Unity_Input_System-5C2D91?style=flat-square&logo=unity&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-URP-5C2D91?style=flat-square&logo=unity&logoColor=white"/>
   </td>
   </tr>
 
@@ -134,8 +130,6 @@ Junior Cyber Physical Systems Engineering student interested in **AI/ML, quantit
     <td>
       <img src="https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black"/>
-      <img src="https://img.shields.io/badge/-mypy-2A6DB2?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Pyright-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </td>
   </tr>
 
@@ -145,7 +139,6 @@ Junior Cyber Physical Systems Engineering student interested in **AI/ML, quantit
     <img src="https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
     <img src="https://img.shields.io/badge/-I2C-607D8B?style=flat-square"/>
-    <img src="https://img.shields.io/badge/-Sensor_Integration-2E7D32?style=flat-square"/>
   </td>
   </tr>
 

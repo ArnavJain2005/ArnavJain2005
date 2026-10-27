@@ -43,7 +43,6 @@ Junior Cyber Physical Systems Engineering student interested in **AI/ML, quantit
       <img src="https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Embedded_C-00599C?style=flat-square&logo=c&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Assembly-0091BD?style=flat-square&logo=arm&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
     </td>
@@ -114,7 +113,6 @@ Junior Cyber Physical Systems Engineering student interested in **AI/ML, quantit
       <img src="https://img.shields.io/badge/-Quant_Research-1F6FEB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Backtesting-6E40C9?style=flat-square&logo=chartdotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Alpha_Research-238636?style=flat-square&logo=signal&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Market_Microstructure-BD561D?style=flat-square&logo=tradingview&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Statistical_Modeling-8250DF?style=flat-square&logo=scipy&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Algorithmic_Trading-0969DA?style=flat-square&logo=tradingview&logoColor=white"/>
     </td>
@@ -146,7 +144,6 @@ Junior Cyber Physical Systems Engineering student interested in **AI/ML, quantit
   <td>
     <img src="https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-USB_Serial-455A64?style=flat-square"/>
     <img src="https://img.shields.io/badge/-I2C-607D8B?style=flat-square"/>
     <img src="https://img.shields.io/badge/-Sensor_Integration-2E7D32?style=flat-square"/>
   </td>
@@ -167,7 +164,6 @@ Junior Cyber Physical Systems Engineering student interested in **AI/ML, quantit
       <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
       <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
       <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
     </td>
   </tr>

@@ -22,7 +22,7 @@ Building **data-driven software, financial risk systems, and sensor-integrated**
 
 ## About Me
 
-Junior Cyber Physical Systems Engineering student interested in **AI/ML, quantitative research, software engineering, and game development**. I work with **Python, C, C++, C#, Embedded C, and Assembly**, and have applied these languages and tools to machine learning, data-driven systems, embedded development, and interactive software. My interests include **systematic trading, financial markets, algorithmic systems, and XR/game development**, with an emphasis on practical engineering, experimentation, and evidence-based iteration.
+A 3rd year Cyber Physical Systems Engineering student interested in **AI/ML, quantitative research, software engineering, and game development**. I work with **Python, C++, C#, Embedded C, and Assembly**, and have applied these languages and tools to machine learning, data-driven systems, embedded development, and interactive software. My interests include **systematic trading, financial markets, algorithmic systems, and XR/game development**, with an emphasis on practical engineering, experimentation, and evidence-based iteration.
 
 ---
 

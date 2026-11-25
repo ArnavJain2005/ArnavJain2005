@@ -25,11 +25,6 @@ Building **data-driven software, financial risk systems, and sensor-integrated**
 
 </div>
 
-<h4 align="center">🏆 Ranked <b>80th in India</b> (top 1.2% globally) of 291K+ researchers on WorldQuant BRAIN</h4>
-<h4 align="center">📈 <b>Top 4.5%</b> in the SIG Predictions Cup 2026 with Bellwether, my automated trading system</h4>
-<h4 align="center">🌏 WorldQuant IQC 2026: India National Finals, <b>invited to the Global Finals in Singapore</b></h4>
-<h4 align="center">⚡ <b>135th of 22,000+ teams</b> in IMC Trading Prosperity 4 (Manual Trading)</h4>
-
 ---
 
 ## About Me

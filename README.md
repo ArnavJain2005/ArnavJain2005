@@ -43,18 +43,18 @@ A 3rd year Cyber Physical Systems Engineering student interested in **AI/ML, qua
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ArnavJain2005/Bellwether">📊 Bellwether</a></h3>
+      <h3><a href="https://github.com/ArnavJain2005/Bellwether">Bellwether</a></h3>
       Automated trading backend for election prediction markets, running on live Kalshi, Polymarket and SIG APIs. It has a 12-stage risk gate, idempotent orders and 3,201 tests, and is deployed on Azure.<br/><br/>
-      <b>🏅 Top 4.5%, SIG Predictions Cup 2026</b><br/><br/>
+      <b>Top 4.5%, SIG Predictions Cup 2026</b><br/><br/>
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/-asyncio-3776AB?style=flat-square"/>
       <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ArnavJain2005/PHYS-XR">🥽 PHYS-XR</a></h3>
+      <h3><a href="https://github.com/ArnavJain2005/PHYS-XR">PHYS-XR</a></h3>
       A VR game whose AI agent reacts to a physical ESP32 sensor station. Its decision engine uses deterministic, traceable C# rules, backed by 382 headless C# tests and 53 firmware tests.<br/><br/>
-      <b>📝 Research paper in progress</b><br/><br/>
+      <b>Research paper in progress</b><br/><br/>
       <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
       <img src="https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
       <img src="https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
@@ -63,17 +63,17 @@ A 3rd year Cyber Physical Systems Engineering student interested in **AI/ML, qua
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ArnavJain2005/RippleGuard">🛡️ RippleGuard</a></h3>
+      <h3><a href="https://github.com/ArnavJain2005/RippleGuard">RippleGuard</a></h3>
       Payment-abuse detection built on behavioural and transaction-graph features. Adding the graph features raised precision from 65.1% to 68.7% and cut flash-sale false positives by 51.9%.<br/><br/>
-      <b>🏦 Razorpay AI Buildathon 2026</b><br/><br/>
+      <b>Razorpay AI Buildathon 2026</b><br/><br/>
       <img src="https://img.shields.io/badge/-XGBoost-189C37?style=flat-square"/>
       <img src="https://img.shields.io/badge/-NetworkX-FF6B35?style=flat-square"/>
       <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ArnavJain2005/Vortex">🧭 Vortex</a></h3>
+      <h3><a href="https://github.com/ArnavJain2005/Vortex">Vortex</a></h3>
       IMU-only 6-DoF pose estimation with a 15-state error-state Kalman filter. It has 521 tests, gets 8.1% lower error than the baseline on held-out data, and ships as a Docker image.<br/><br/>
-      <b>📱 Samsung PRISM XR Hackathon 2026</b><br/><br/>
+      <b>Samsung PRISM XR Hackathon 2026</b><br/><br/>
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
     </td>

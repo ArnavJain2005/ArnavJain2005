@@ -289,8 +289,8 @@ A 3rd year Cyber Physical Systems Engineering student interested in **AI/ML, qua
 
 <!-- Needs .github/workflows/snake.yml (see snake.yml) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArnavJain2005/ArnavJain2005/output/github-contribution-grid-snake-dark.svg"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ArnavJain2005/ArnavJain2005/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArnavJain2005/ArnavJain2005/output/github-contribution-grid-snake-dark.svg?v=2"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ArnavJain2005/ArnavJain2005/output/github-contribution-grid-snake.svg?v=2"/>
 </picture>
 
 ---

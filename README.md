@@ -228,6 +228,9 @@ A 3rd year Cyber Physical Systems Engineering student interested in **AI/ML, qua
   <tr>
     <td><b>Embedded Systems, IoT & Sensing</b></td>
     <td>
+      <img src="https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
+      <img src="https://img.shields.io/badge/-LPC2148_(ARM7)-000000?style=flat-square&logo=nxp&logoColor=white" alt="NXP LPC2148"/>
+      <img src="https://img.shields.io/badge/-8051-0071C5?style=flat-square&logo=intel&logoColor=white" alt="8051 microcontroller"/>
       <img src="https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/>
       <img src="https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
       <img src="https://img.shields.io/badge/-I2C-607D8B?style=flat-square" alt="I2C"/>
